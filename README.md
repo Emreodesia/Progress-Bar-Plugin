@@ -1,14 +1,23 @@
--BlueWay 
-![x](https://github.com/Emreodesia/My-Web-Design-projects-WP/assets/115417234/ff00bb93-463e-4429-b0c2-f88c99b77601)
--
+# 🟢 Progress Circle Bar Plugin for Bubble.io
 
--AstonMartin
-![Aston 2](https://github.com/Emreodesia/My-Web-Design-projects-WP/assets/115417234/59fd303c-f420-4fe2-9a16-b6669cbf0918)
--
+A lightweight and customizable **Progress Circle Bar** plugin built specifically for [Bubble.io](https://bubble.io) applications. This plugin allows you to visually display progress as a circular percentage animation.
 
--TravelOdesia
-![To0](https://github.com/Emreodesia/My-Web-Design-projects-WP/assets/115417234/d78c2391-b36a-4c36-84c3-97e6e5bc6186)
--
+## 🚀 Features
+
+- Smooth circular progress animation  
+- Fully customizable size, color, and percentage input  
+- Built with **JavaScript** and **CSS**  
+- Responsive design, works across all screen sizes  
+- Easy integration with Bubble Workflows  
+- Ideal for dashboards, surveys, goal tracking, and more
+
+## 🛠️ Technologies Used
+
+- **JavaScript** – Core logic for rendering and animating the progress  
+- **CSS** – Styling for responsiveness and customization  
+- **Bubble Plugin Editor** – For no-code integration into Bubble apps
+
+
 
 
 
