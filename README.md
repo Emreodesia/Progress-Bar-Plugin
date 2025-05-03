@@ -1,4 +1,4 @@
-# 🟢 Progress Circle Bar Plugin for Bubble.io
+#  Progress Circle Bar Plugin for Bubble.io
 
 A lightweight and customizable **Progress Circle Bar** plugin built specifically for [Bubble.io](https://bubble.io) applications. This plugin allows you to visually display progress as a circular percentage animation.
 
@@ -16,6 +16,9 @@ A lightweight and customizable **Progress Circle Bar** plugin built specifically
 - **JavaScript** – Core logic for rendering and animating the progress  
 - **CSS** – Styling for responsiveness and customization  
 - **Bubble Plugin Editor** – For no-code integration into Bubble apps
+![loti](https://github.com/user-attachments/assets/b3b5b8af-68c1-4654-a3b4-0387c5dda890)
+
+  
 
 
 
